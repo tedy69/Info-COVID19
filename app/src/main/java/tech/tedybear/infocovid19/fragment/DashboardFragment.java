@@ -31,7 +31,7 @@ public class DashboardFragment extends Fragment {
         root.findViewById(R.id.git_repo_link).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String url = "https://github.com/tedy69";
+                String url = "https://github.com/tedy69/Info-COVID19";
 
                 Intent i = new Intent(Intent.ACTION_VIEW);
                 i.setData(Uri.parse(url));
