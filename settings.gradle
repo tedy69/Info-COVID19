@@ -1,0 +1,7 @@
+/*
+ * Created by Mochammad Tedy Fazrin on 3/23/20 5:33 PM
+ * Copyright (c) 2020. All rights reserved.
+ */
+
+rootProject.name='Info COVID19'
+include ':app'

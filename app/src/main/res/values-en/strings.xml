@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Created by Mochammad Tedy Fazrin on 3/23/20 5:33 PM
+  ~ Copyright (c) 2020. All rights reserved.
+  -->
+
+<resources>
+    <string name="app_name">Info COVID-19</string>
+    <string name="ringkasan">Summary</string>
+    <string name="indonesia">Indonesian</string>
+    <string name="info">Info</string>
+    <string name="riwayat">History</string>
+    <string name="change_languange_setting">Change Languange Setting</string>
+    <string name="title_dashboard">Info</string>
+    <string name="not_update">Historical Data Not Updated</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="recovered">Recovered</string>
+    <string name="deaths">Deaths</string>
+    <string name="keterangan">Info :</string>
+    <string name="world_summary_data">World Summary Data</string>
+    <string name="from_corona">From Covid-19</string>
+    <string name="last_update">Last Update</string>
+    <string name="indonesia_summary_data">Indonesian Summary Data</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="display_data">Currently Displaying Data...</string>
+    <string name="country">Country : </string>
+</resources>
