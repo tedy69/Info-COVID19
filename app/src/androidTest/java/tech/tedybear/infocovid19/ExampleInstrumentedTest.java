@@ -2,8 +2,8 @@ package tech.tedybear.infocovid19;
 
 import android.content.Context;
 
-import androidx.test.ext.junit.runners.AndroidJUnit4;
 import androidx.test.platform.app.InstrumentationRegistry;
+import androidx.test.runner.AndroidJUnit4;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
 import static org.junit.Assert.assertEquals;
 
 /*
- * Created by Mochammad Tedy Fazrin on 3/23/20 5:33 PM
+ * Created by Mochammad Tedy Fazrin on 3/23/20 5:36 PM
  * Copyright (c) 2020. All rights reserved.
  */
 
