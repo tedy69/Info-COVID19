@@ -28,8 +28,6 @@ public class DashboardFragment extends Fragment {
                              ViewGroup container, Bundle savedInstanceState) {
         View root = inflater.inflate(R.layout.fragment_dashboard, container, false);
 
-        getActivity().setTitle("nCOVIDroid Info");
-
         root.findViewById(R.id.git_repo_link).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
